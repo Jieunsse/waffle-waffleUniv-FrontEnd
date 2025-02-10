@@ -1,0 +1,28 @@
+.input {
+  width: 233px;
+  height: 48px;
+
+  border-radius: 171px;
+  border: none;
+
+  background-color: #ffffff;
+  font-family: 'Wanted Sans Variable', sans-serif;
+  padding-left: 24px;
+  margin-top: 25px;
+  margin-bottom: 21px;
+  margin-left: 1410px;
+
+  position: absolute;
+}
+
+input::placeholder {
+  font-size: 18px;
+  font-family: 'Wanted Sans Variable', sans-serif;
+  font-weight: bold;
+  color: #0094D9;
+  padding-top: 13px;
+  padding-bottom: 14px;
+}
+
+
+

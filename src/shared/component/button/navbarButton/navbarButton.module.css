@@ -1,0 +1,34 @@
+.button {
+  position: absolute;
+
+  width: 16px;
+  height: 21px;
+
+  font-size: 18px;
+  font-weight: 600;
+  font-family: 'Wanted Sans Variable', sans-serif;
+  color: #117A82;
+
+  cursor: pointer;
+
+  background: none;
+  border: none;
+  white-space: nowrap;
+}
+
+.home {
+  margin: 34px 1215px 39px 689px;
+}
+
+.news {
+  margin: 34px 1070px 39px 818px;
+}
+
+.board {
+  margin: 34px 894px 39px 963px;
+}
+
+.login {
+   margin: 34px 167px 39px 1706px;
+   color: #13234A;
+}
