@@ -1,13 +1,13 @@
 import React from 'react';
-import navStyle from '../nav/Nav.module.css';
-import { SearchInput } from '../input/SearchInput.tsx';
-import searchInputStyles from '../input/serachInput.module.css';
-import mainLogo from '../../assets/img/logo/mainLogo.svg';
-import hamburgerButton from '../../assets/img/hamburger/hamburgerButton.svg';
-import hamburgerStyle from '../../assets/img/hamburger/hamburger.module.css';
-import mainLogoStyle from '../../assets/img/logo/mainLogo.module.css';
-import { NavbarButton } from '../button/navbarButton/NavbarButton.tsx';
-import NavbarButtonStyle from '../button/navbarButton/navbarButton.module.css';
+import navStyle from '@components/nav/Nav.module.css';
+import { SearchInput } from '@components/input/SearchInput.tsx';
+import searchInputStyles from '@components/input/serachInput.module.css';
+import mainLogo from '@assets/img/logo/mainLogo.svg';
+import hamburgerButton from '@assets/img/hamburger/hamburgerButton.svg';
+import hamburgerStyle from '@assets/img/hamburger/hamburger.module.css';
+import mainLogoStyle from '@assets/img/logo/mainLogo.module.css';
+import { NavbarButton } from '@components/button/navbarButton/NavbarButton.tsx';
+import NavbarButtonStyle from '@components/button/navbarButton/navbarButton.module.css';
 import { useNavigate } from 'react-router-dom';
 
 interface NavProps {
