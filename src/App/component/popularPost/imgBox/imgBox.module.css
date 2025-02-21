@@ -1,0 +1,45 @@
+.imgBoxNvidia {
+  width: 266px;
+  height: 216px;
+
+  background-image: url('/src/shared/assets/img/popularPostImgBox/nvidia.svg');
+
+  position: absolute;
+
+  border-radius: 15px;
+
+
+  top: 1032px;
+  right: 1400px;
+}
+
+.imgBoxTesla {
+  width: 266px;
+  height: 216px;
+
+  background-image: url('/src/shared/assets/img/popularPostImgBox/Tesla.svg');
+  position: absolute;
+
+  border-radius: 15px;
+
+  top: 1032px;
+  right: 1100px;
+
+}
+
+.imgBoxBrandLogo {
+  width: 266px;
+  height: 216px;
+
+  background-image: url('/src/shared/assets/img/popularPostImgBox/mc.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  border-radius: 20px;
+  overflow: hidden;
+
+  top: 1033px;
+  right: 750px;
+  left: 1070px;
+}

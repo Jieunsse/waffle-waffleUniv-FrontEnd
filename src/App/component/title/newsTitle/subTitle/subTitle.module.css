@@ -1,0 +1,15 @@
+.subTitle {
+  color: #a0bcb1;
+  text-align: left;
+  font-family: "Wanted Sans Variable", sans-serif;
+  font-size: 15px;
+  line-height: 23px;
+  font-weight: 600;
+  position: absolute;
+  width: 134px;
+  height: 30px;
+
+  margin-top: 69px;
+
+  white-space: nowrap;
+}

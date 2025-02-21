@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+
+  width: 1920px;
+  height: 94px;
+
+  background: linear-gradient(45deg, rgba(80, 193, 177, 0.38) 0%, rgba(111, 218, 248, 0.38) 53%, rgba(0, 148, 217, 0.38) 100%);
+}
+
+.button {
+  border: none;
+  outline: none;
+  background: none;
+  white-space: nowrap;
+}

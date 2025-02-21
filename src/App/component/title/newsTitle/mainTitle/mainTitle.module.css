@@ -1,0 +1,16 @@
+.mainTitle {
+  text-align: left;
+  font-family: "Wanted Sans Variable", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 23px;
+  color: black;
+
+  width: 334px;
+  height: 30px;
+  position: absolute;
+  box-sizing: border-box;
+
+  margin-top: 13px;
+}
+

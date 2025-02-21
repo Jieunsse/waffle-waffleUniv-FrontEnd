@@ -1,0 +1,12 @@
+.button {
+  width: 114px;
+  height: 42px;
+  background-color: #E8FFFB;
+  border-radius: 115px;
+  color: #506062;
+
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Wanted Sans Variable', sans-serif;
+  line-height: 23px;
+}

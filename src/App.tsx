@@ -1,6 +1,6 @@
 import React from 'react';
-import { Router } from './pages/router/Router';
-
+import { Router } from './shared/router/Router';
+import 'normalize.css';
 const App: React.FC = () => {
   return <Router />;
 };
