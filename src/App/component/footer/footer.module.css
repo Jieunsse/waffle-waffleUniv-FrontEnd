@@ -1,0 +1,16 @@
+.footer {
+  width: 1920px;
+  height: 230px;
+  background: rgba(220, 250, 246, 0.56);
+
+  display: flex;
+}
+
+
+.logo {
+  width: 334px;
+  margin-left: 1419px;
+
+  object-fit: cover;
+  object-position: center;
+}

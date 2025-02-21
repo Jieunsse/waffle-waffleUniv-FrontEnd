@@ -1,0 +1,247 @@
+.stockTitle01 {
+  color: #0a5477;
+  text-align: left;
+  font-family: "WantedSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  white-space: nowrap;
+
+  top: 235px;
+  right: 376px;
+  bottom: 1242px;
+  left: 1506px;
+}
+
+.stockTitle02 {
+  color: #0a5477;
+  text-align: left;
+  font-family: "WantedSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  white-space: nowrap;
+
+  top: 303px;
+  right: 376px;
+  bottom: 1175px;
+  left: 1506px;
+}
+
+.stockTitle03 {
+  color: #0a5477;
+  text-align: left;
+  font-family: "WantedSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  white-space: nowrap;
+
+  top:370px;
+  right: 325px;
+  bottom: 1107px;
+  left: 1506px;
+}
+
+.stockTitle04 {
+  color: #0a5477;
+  text-align: left;
+  font-family: "WantedSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  white-space: nowrap;
+
+  top: 437px;
+  right: 371px;
+  bottom: 1041px;
+  left: 1506px;
+}
+
+.stockTitle05 {
+  color: #0a5477;
+  text-align: left;
+  font-family: "WantedSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  white-space: nowrap;
+
+  top: 504px;
+  right: 284px;
+  bottom: 973px;
+  left: 1506px;
+}
+
+.stockTitle06 {
+  color: #0a5477;
+  text-align: left;
+  font-family: "WantedSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  white-space: nowrap;
+
+  top: 570px;
+  right: 261px;
+  bottom: 907px;
+  left: 1506px;
+}
+
+.stockTitle07 {
+  color: #0a5477;
+  text-align: left;
+  font-family: "WantedSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  white-space: nowrap;
+
+  top: 638px;
+  right: 371px;
+  bottom: 840px;
+  left: 1506px;
+}
+
+.stockTitle08 {
+  color: #0a5477;
+  text-align: left;
+  font-family: "WantedSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  white-space: nowrap;
+
+  top: 704px;
+  right: 357px;
+  bottom: 773px;
+  left: 1506px;
+}
+
+.stockTitle09 {
+  color: #0a5477;
+  text-align: left;
+  font-family: "WantedSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  white-space: nowrap;
+  cursor: pointer;
+
+  top: 839px;
+  right: 357px;
+  bottom: 572px;
+  left: 1506px;
+}
+
+.stockPrice01 {
+  color: #0a5477;
+  text-align: right;
+  font-family: "WantedSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+
+  top: 220px;
+  right: 251px;
+  bottom: 1250px;
+  left: 1707px;
+}
+
+.stockPrice02 {
+  color: #0a5477;
+  text-align: right;
+  font-family: "WantedSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+
+  top: 290px;
+  right: 251px;
+  bottom: 1250px;
+  left: 1707px;
+}
+
+.stockPrice03 {
+  color: #0a5477;
+  text-align: right;
+  font-family: "WantedSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+
+  top: 360px;
+  right: 251px;
+  bottom: 1250px;
+  left: 1707px;
+}
+
+.stockPrice04 {
+  color: #0a5477;
+  text-align: right;
+  font-family: "WantedSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+
+  top: 430px;
+  right: 251px;
+  bottom: 1250px;
+  left: 1707px;
+}
+
+.stockPrice05 {
+  color: #0a5477;
+  text-align: right;
+  font-family: "WantedSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+
+  top: 500px;
+  right: 251px;
+  bottom: 1250px;
+  left: 1707px;
+}
+
+.stockPrice06 {
+  color: #0a5477;
+  text-align: right;
+  font-family: "WantedSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+
+  top: 570px;
+  right: 251px;
+  bottom: 1250px;
+  left: 1707px;
+}
+
+.stockPrice07 {
+  color: #0a5477;
+  text-align: right;
+  font-family: "WantedSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+
+  top: 640px;
+  right: 251px;
+  bottom: 1250px;
+  left: 1707px;
+}
+
+.stockPrice08 {
+  color: #0a5477;
+  text-align: right;
+  font-family: "WantedSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+
+  top: 710px;
+  right: 251px;
+  bottom: 1250px;
+  left: 1707px;
+}

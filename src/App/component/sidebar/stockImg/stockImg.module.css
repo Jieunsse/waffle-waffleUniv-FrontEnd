@@ -1,0 +1,144 @@
+.stockImg01 {
+  width: 52px;
+  height: 52px;
+
+  border-radius: 50%;
+  object-fit: cover;
+  position: absolute;
+
+  cursor: pointer;
+
+  top: 220px;
+  right: 435px;
+  bottom: 1215px;
+  left: 1434px;
+}
+
+.stockImg02 {
+  width: 52px;
+  height: 52px;
+
+  border-radius: 50%;
+  object-fit: cover;
+  position: absolute;
+
+  cursor: pointer;
+
+  top: 287px;
+  right: 435px;
+  bottom: 1158px;
+  left: 1434px;
+}
+
+.stockImg03 {
+  width: 52px;
+  height: 52px;
+
+  border-radius: 50%;
+  object-fit: cover;
+  position: absolute;
+
+  cursor: pointer;
+
+  top: 354px;
+  right: 435px;
+  bottom: 1090px;
+  left: 1434px;
+}
+
+.stockImg04 {
+  width: 52px;
+  height: 52px;
+
+  border-radius: 50%;
+  object-fit: cover;
+  position: absolute;
+
+  cursor: pointer;
+
+  top: 420px;
+  right: 435px;
+  bottom: 1024px;
+  left: 1434px;
+}
+
+.stockImg05 {
+  width: 52px;
+  height: 52px;
+
+  border-radius: 50%;
+  object-fit: cover;
+  position: absolute;
+
+  cursor: pointer;
+
+  top: 487px;
+  right: 435px;
+  bottom: 957px;
+  left: 1434px;
+
+}
+
+.stockImg06 {
+  width: 52px;
+  height: 52px;
+
+  border-radius: 50%;
+  object-fit: cover;
+  position: absolute;
+
+  cursor: pointer;
+
+  top: 554px;
+  right: 435px;
+  bottom: 889px;
+  left: 1434px;
+}
+
+.stockImg07 {
+  width: 52px;
+  height: 52px;
+
+  border-radius: 50%;
+  object-fit: cover;
+  position: absolute;
+
+  cursor: pointer;
+
+  top: 622px;
+  right: 435px;
+  bottom: 823px;
+  left: 1434px;
+}
+
+.stockImg08 {
+  width: 52px;
+  height: 52px;
+
+  border-radius: 50%;
+  object-fit: cover;
+  position: absolute;
+
+  cursor: pointer;
+
+  top: 689px;
+  right: 435px;
+  bottom: 756px;
+  left: 1434px;
+}
+
+.stockImg09 {
+  width: 52px;
+  height: 52px;
+
+  border-radius: 50%;
+  object-fit: cover;
+  position: absolute;
+
+  cursor: pointer;
+
+  top: 823px;
+  right: 435px;
+  bottom: 622px;
+  left: 1434px;
+}

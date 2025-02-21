@@ -1,0 +1,7 @@
+.cardNewsContainer {
+  width: 1214px;
+  height: 366px;
+
+  display: flex;
+  justify-content: space-between;
+}

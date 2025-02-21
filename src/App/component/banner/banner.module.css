@@ -1,0 +1,24 @@
+.banner {
+  width: 1214px;
+  height: 320px;
+  position: absolute;
+}
+
+.bannerBlock {
+  width: 1214px;
+  height: 48px;
+
+  font-size: 18px;
+  font-weight: 600;
+  font-family: "Wanted Sans Variable", sans-serif;
+
+  color: #ffffff;
+  background-color: #13234A;
+
+  position: absolute;
+  margin-top: 320px;
+}
+
+.bannerContainer {
+  margin: 29px 443px 93px 170px;
+}

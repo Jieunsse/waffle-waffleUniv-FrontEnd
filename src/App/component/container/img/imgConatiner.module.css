@@ -1,0 +1,11 @@
+.container {
+  width: 382px;
+  height: 166px;
+  border-radius: 26px;
+
+
+  /* Figma Plugin */
+  position: relative;
+  object-fit: cover;
+  box-sizing: border-box;
+}

@@ -1,0 +1,41 @@
+.mainTitle {
+  font-family: 'Wanted Sans Variable', sans-serif;
+  line-height: 23px;
+  color: #ffffff;
+
+  position: absolute;
+  text-align: right;
+
+  margin-top: 73px;
+  margin-bottom: 94px;
+  margin-left: 445px;
+}
+
+.firstName {
+  font-size: 36px;
+  font-weight: 800;
+
+  white-space: nowrap;
+  margin-top: 30px;
+  margin-left: 300px;
+
+
+
+}
+
+.secondName {
+  font-size: 48px;
+  font-weight: 800;
+  white-space: nowrap;
+  margin-top: 20px;
+
+
+}
+
+.thirdName {
+  font-size: 18px;
+  font-weight: 600;
+  white-space: nowrap;
+
+  margin-top: 20px;
+}

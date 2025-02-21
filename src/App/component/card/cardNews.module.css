@@ -1,0 +1,24 @@
+.container {
+  margin: 10px 32px 687px 170px;
+  font-family: 'Wanted Sans Variable', sans-serif;
+  cursor: pointer;
+}
+
+.secondCard {
+  margin-top: 10px;
+  margin-right: 32px;
+  margin-bottom: 687px;
+
+  font-family: 'Wanted Sans Variable', sans-serif;
+  cursor: pointer;
+}
+
+.thirdCard {
+  margin-top: 10px;
+  margin-right: 32px;
+  margin-bottom: 687px;
+
+  font-family: 'Wanted Sans Variable', sans-serif;
+  cursor: pointer;
+}
+

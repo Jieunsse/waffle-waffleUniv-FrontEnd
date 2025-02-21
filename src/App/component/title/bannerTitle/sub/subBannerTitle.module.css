@@ -1,0 +1,11 @@
+.subBannerTitle {
+  font-size: 18px;
+  font-weight: 600;
+  font-family: "Wanted Sans Variable", sans-serif;
+  color: #ffffff;
+
+  width: 388px;
+  height: 21px;
+  margin: 13px 809px 14px 17px;
+  white-space: nowrap;
+}

@@ -1,0 +1,16 @@
+.sideBarTitle {
+  color: #13234a;
+  text-align: left;
+  font-family: "WantedSans-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  height: 30px;
+
+  top: 155px;
+  right: 149px;
+  bottom: 1311px;
+  left: 1437px;
+
+  white-space: nowrap;
+}
