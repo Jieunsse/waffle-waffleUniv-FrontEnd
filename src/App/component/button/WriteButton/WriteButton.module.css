@@ -9,4 +9,13 @@
   font-weight: bold;
   font-family: 'Wanted Sans Variable', sans-serif;
   line-height: 23px;
+  border: none;
+
+  top: 1150px;
+  right: 1624px;
+  bottom: 424px;
+  left: 182px;
+
+  position: absolute;
+  cursor: pointer;
 }
