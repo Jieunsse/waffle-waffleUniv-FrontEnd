@@ -20,6 +20,8 @@ import writeButtonStyle from '@components/button/WriteButton/WriteButton.module.
 import { ImgBox } from '@components/popularPost/imgBox/ImgBox.tsx';
 import imgBoxStyle from '@components/popularPost/imgBox/imgBox.module.css';
 import { Footer } from '@components/footer/Footer.tsx';
+import footerStyle from '@components/footer/footer.module.css';
+import footerTitleStyle from '@components/title/footerTitle/footerTitle.module.css';
 
 export const Home = () => {
   return (
@@ -71,7 +73,13 @@ export const Home = () => {
         <ImgBox className={imgBoxStyle.imgBoxBrandLogo} />
         <PopularPost />
       </PopularPostContainer>
-      <Footer />
+      <Footer
+        className={footerStyle.footer}
+        title01={footerTitleStyle.footerTitle01}
+        title02={footerTitleStyle.footerTitle02}
+        title03={footerTitleStyle.footerTitle03}
+        title04={footerTitleStyle.footerTitle04}
+      />
     </div>
   );
 };

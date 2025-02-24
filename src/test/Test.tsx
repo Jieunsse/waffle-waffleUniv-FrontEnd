@@ -1,21 +1,21 @@
 import { Nav } from '@components/nav/Nav.tsx';
-import NavStyles from '@components/nav/Nav.module.css';
-import { Banner } from '@components/banner/Banner.tsx';
-import BannerStyles from '@components/banner/banner.module.css';
-import BannerImg from '@assets/img/banner/banner.svg';
-import BannerButtonStyles from '@components/button/bannerButton/bannerButton.module.css';
+import { SideBar } from '@components/sidebar/SideBar.tsx';
+import { Footer } from '@components/footer/Footer.tsx';
+import footerStyle from '@components/footer/footer.module.css';
+import footerTitleStyle from '@components/title/footerTitle/footerTitle.module.css';
 
 export const Test = () => {
   return (
-    <div>
-      <Nav className={NavStyles.navbar} />
-      <br />
-      <Banner
-        imgClassName={BannerStyles.banner}
-        src={BannerImg}
-        leftButtonClassName={BannerButtonStyles.leftButton}
-        rightButtonClassName={BannerButtonStyles.rightButton}
+    <>
+      <Nav />
+      <SideBar />
+      <Footer
+        className={footerStyle.footer2}
+        title01={footerTitleStyle.footerTitle05}
+        title02={footerTitleStyle.footerTitle06}
+        title03={footerTitleStyle.footerTitle07}
+        title04={footerTitleStyle.footerTitle08}
       />
-    </div>
+    </>
   );
 };

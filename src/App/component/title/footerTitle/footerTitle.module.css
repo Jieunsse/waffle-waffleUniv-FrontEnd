@@ -65,3 +65,73 @@
   bottom: 55px;
   left: 170px;
 }
+
+/* boardPage */
+
+.footerTitle05 {
+  color: #72999b;
+  text-align: left;
+  font-family: "Wanted Sans Bold", sans-serif;
+  font-size: 18px;
+  line-height: 23px;
+  font-weight: 700;
+  height: 30px;
+
+  position: absolute;
+
+  /*top: 1313px;*/
+  right: 1416px;
+  bottom: 153px;
+  left: 170px;
+}
+
+.footerTitle06 {
+  color: #72999b;
+  text-align: left;
+  font-family: "Wanted Sans Bold", sans-serif;
+  font-size: 18px;
+  line-height: 23px;
+  font-weight: 700;
+  height: 30px;
+
+  position: absolute;
+
+  /*top: 1313px;*/
+  right: 1282px;
+  bottom: 153px;
+  left: 304px;
+}
+
+.footerTitle07 {
+  color: #72999b;
+  text-align: left;
+  font-family: "Wanted Sans Bold", sans-serif;
+  font-size: 18px;
+  line-height: 23px;
+  font-weight: 700;
+  height: 30px;
+
+  position: absolute;
+
+  /*top: 1313px;*/
+  right: 1082px;
+  bottom: 153px;
+  left: 504px;
+}
+
+.footerTitle08 {
+  color: #72999b;
+  text-align: left;
+  font-family: "Wanted Sans Bold", sans-serif;
+  font-size: 18px;
+  line-height: 23px;
+  font-weight: 700;
+  height: 30px;
+
+  position: absolute;
+
+  /*top: 1410px;*/
+  right: 1416px;
+  bottom: 55px;
+  left: 170px;
+}

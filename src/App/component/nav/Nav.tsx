@@ -24,13 +24,13 @@ export const Nav = ({ children, className }: NavProps) => {
         src={mainLogo}
         alt="로고"
         className={mainLogoStyle.img}
-        onClick={() => navigate('/')}
+        onClick={() => navigate('/home')}
       />
       <SearchInput placeholder="검색" className={searchInputStyles.input} />
       <NavbarButton
         className={`${NavbarButtonStyle.button} ${NavbarButtonStyle.home}`}
         buttonName={'홈'}
-        onClick={() => navigate('/')}
+        onClick={() => navigate('/home')}
       />
       <NavbarButton
         className={`${NavbarButtonStyle.button} ${NavbarButtonStyle.news}`}

@@ -6,6 +6,16 @@
   display: flex;
 }
 
+.footer2 {
+  width: 1920px;
+  height: 230px;
+  background: rgba(220, 250, 246, 0.56);
+  display: flex;
+
+  position: fixed;
+  bottom: 0;
+}
+
 
 .logo {
   width: 334px;
