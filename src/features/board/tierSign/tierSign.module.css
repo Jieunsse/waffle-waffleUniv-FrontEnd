@@ -1,0 +1,23 @@
+.tierSign {
+  background: rgba(208, 236, 231, 0.45);
+  border-radius: 50px;
+  width: 56px;
+  height: 20px;
+
+  position: absolute;
+
+  text-align: left;
+  color: #0a5477;
+  font-family: "WantedSans-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  top: 583px;
+  right: 1365px;
+  bottom: 529px;
+  left: 500px;
+}

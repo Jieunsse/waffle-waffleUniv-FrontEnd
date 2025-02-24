@@ -1,0 +1,36 @@
+.buttons {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  width: 168px;
+  height: 16px;
+}
+
+.container {
+  display: flex;
+  position: relative;
+
+  white-space: nowrap;
+}
+
+.container02 {
+  display: flex;
+  position: relative;
+  white-space: nowrap;
+
+  margin-top: 80px;
+}
+
+.boardTime {
+  color: #0a5477;
+  text-align: left;
+  font-family: "WantedSans-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+
+  position: absolute;
+
+  top: 585px;
+  left: 570px;
+}
