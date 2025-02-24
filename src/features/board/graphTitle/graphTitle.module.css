@@ -1,0 +1,63 @@
+.graphTitle {
+  color: #0a5477;
+  text-align: left;
+  font-family: "WantedSans-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+
+  position: absolute;
+
+  top: 181px;
+  right: 1431px;
+  bottom: 1019px;
+  left: 416px;
+
+  white-space: nowrap;
+}
+
+.graphTitlePrice {
+  color: #0a5477;
+  text-align: left;
+  font-family: "WantedSans-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  white-space: nowrap;
+
+  position: absolute;
+
+  top: 218px;
+  right: 1364px;
+  bottom: 973px;
+  left: 416px;
+}
+
+.graphTitlePercentage {
+  color: #008cff;
+  text-align: left;
+  font-family: "WantedSans-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  white-space: nowrap;
+
+  position: absolute;
+
+  top: 221px;
+  right: 1271px;
+  bottom: 984px;
+  left: 572px;
+}
+
+.boardUserName {
+  color: #0a5477;
+  text-align: left;
+  font-family: "WantedSans-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+
+  position: relative;
+
+  top: 585px;
+  right: 1435px;
+  bottom: 537px;
+  left: 402px;
+}

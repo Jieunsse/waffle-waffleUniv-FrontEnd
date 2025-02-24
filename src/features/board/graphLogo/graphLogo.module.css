@@ -1,0 +1,13 @@
+.graphLogo {
+  width: 87px;
+  height: 87px;
+  border-radius: 15px;
+  object-fit: cover;
+
+  position: absolute;
+
+  top: 174px;
+  right: 1529px;
+  bottom: 968px;
+  left: 304px;
+}
