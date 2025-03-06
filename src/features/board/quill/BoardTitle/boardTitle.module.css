@@ -1,0 +1,12 @@
+.boardTitle {
+  color: #0a5477;
+  text-align: left;
+  font-family: "WantedSans-ExtraBold", sans-serif;
+  font-size: 32px;
+  font-weight: 800;
+
+  position: absolute;
+
+  top: 140px;
+  left: 100px;
+}
