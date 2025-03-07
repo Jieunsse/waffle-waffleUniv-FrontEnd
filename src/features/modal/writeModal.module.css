@@ -1,0 +1,61 @@
+.modal {
+  width: 982px;
+  height: 207px;
+
+  border-radius: 59px;
+  position: absolute;
+
+  background: rgba(255, 255, 255, 0.92);
+  box-shadow: 0px 1px 8.1px 0px rgba(80, 193, 177, 1);
+}
+
+.input {
+  text-align: left;
+  font-family: "WantedSans-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 23px;
+  font-weight: 400;
+  border: none;
+
+  position: absolute;
+
+  margin: 48px 735px 136px 140px;
+}
+
+.input::placeholder {
+  color: #72999b;
+  text-align: left;
+  font-family: "WantedSans-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 23px;
+  font-weight: 400;
+}
+
+.iconContainer {
+  display: flex;
+  justify-content: space-around;
+  width: 212px;
+  height: 20px;
+
+  position: absolute;
+
+  margin: 143px 631px 35px 140px
+
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+
+.profileImg {
+  width: 48px;
+  height: 49px;
+  border-radius: 50%;
+  position: absolute;
+  object-fit: cover;
+
+  margin: 45px 873px 114px 61px;
+}
